@@ -5,4 +5,5 @@ require('dotenv').config();
 
 app.listen(3000, () => {
     console.log("Servidor rodando normal");
+    console.log("Teste de pr Caio");
 })
